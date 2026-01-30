@@ -1,1 +1,5 @@
 package inventory
+
+func main() {
+
+}
